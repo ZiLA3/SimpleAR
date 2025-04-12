@@ -2,7 +2,7 @@
 Simple AR Program with OpenCV
 
 ### Description
-First, Scan Video and Get Camera info.
+First, Scan Video and Get Camera info.  
 Next, Draw Brick Block on Chessboard.
 
 ### ScreenShot
